@@ -27,6 +27,9 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
       icon: "/favicon.ico",
       shortcut: "/favicon.ico",
       apple: "/favicon.ico"
+    },
+    openGraph: {
+      images: ["/seo/og_cover.jpg"]
     }
   };
 }
