@@ -70,8 +70,8 @@ export default function ServicesPage() {
                   <div className="bg-white text-black p-6 border-4 border-black transition-all duration-100 hover:bg-black hover:text-white hover:border-white w-full">
                     <div className="relative mb-5 aspect-[4/3] w-full overflow-hidden border-3 border-black">
                       <Image
-                        src="/bts/serveis/xxss.jpg"
-                        alt="XXSS"
+                        src="/bts/serveis/xarxes-socials.jpg"
+                        alt="Xarxes Socials"
                         fill
                         sizes="(min-width: 1024px) 320px, (min-width: 768px) 45vw, 90vw"
                         className="object-cover"
