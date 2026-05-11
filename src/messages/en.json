@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "description": "Your trusted audiovisual production company"
+  },
+  "home": {
+    "title": "Welcome to Rodeo Studio",
+    "subtitle": "Your trusted audiovisual production company from Barcelona.",
+    "cta": "Start your project"
+  },
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "team": "Team",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Explore our latest projects"
+  },
+  "about": {
+    "title": "About Rodeo Studio",
+    "text1": "Founded in 2025, Rodeo Studio is a Barcelona-based audiovisual production company made up of young professionals with a strong passion for film and music.",
+    "text2": "Our specialty is music videos, but we also produce short films, documentaries, promotional videos, and live broadcasts.",
+    "alt": "Rodeo Studio team",
+    "meetTeam": "Meet our team"
+  },
+  "team": {
+    "title": "Who are we?",
+    "subtitle": "We are Andrés, Raquel, Ot, Mery, Martí, and Laia. Together we form a diverse and well-rounded team for any audiovisual production.",
+    "andres": {
+      "role": "Director of Photography",
+      "description": "An expert in cinematography and lighting, Andrés brings every project to life with his artistic and technical vision. He’s also a color-grading nerd and grades almost all of our projects."
+    },
+    "raquel": {
+      "role": "Creative Director",
+      "description": "Raquel is the engine that drives Rodeo—the one who finds the projects, imagines them, and brings them to life. She has tons of ideas and always finds the resources to make them happen. She’s also the team’s lead editor."
+    },
+    "marti": {
+      "role": "R&D",
+      "description": "Martí is a computer geek and handles the technical side outside of audiovisual productions. He’s also a film lover and can work as a camera operator or lighting assistant."
+    },
+    "laia": {
+      "role": "Designer & Camera Operator",
+      "description": "Laia studied design (as well as film production) and is the group’s creative. If we need a poster, she opens Photoshop; if we need animations, she opens After Effects... she masters it all. She’s also a photography fan and always captures the most beautiful moments you can find on a shoot."
+    },
+    "ot": {
+      "role": "Coordinator",
+      "description": "Ot covers every area. He knows the specs of every camera and lens, can write a script, or figure out the best way to convey an idea. Thanks to his versatility, he coordinates most projects, making sure all parts work as one."
+    },
+    "mery": {
+      "role": "Production Manager",
+      "description": "Mery handles all the logistics and organization of the audiovisual productions we do, coordinates the team, and makes sure everything runs smoothly."
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "commercial": {
+      "title": "Promotional Videos",
+      "desc": "Original commercials—the kind you remember for a long time. We tell your brand’s story with creativity and professionalism."
+    },
+    "music": {
+      "title": "Music Videos",
+      "desc": "Artistic music videos are our specialty. We adapt to your vision and profile, and we craft the narrative and cinematography of the video specifically with you in mind."
+    },
+    "documentary": {
+      "title": "Documentary Films",
+      "desc": "Occasionally we produce commissioned documentaries in mid or small format. We have extensive experience conducting interviews and filming B-roll on location. It’s a format we feel very comfortable with."
+    },
+    "social": {
+      "title": "Social Media Content",
+      "desc": "We can also shoot vertically—who would have thought! We know how to edit, we understand the style, and we know how to film you and your team to create engaging content optimized for Instagram, TikTok, or YouTube algorithms."
+    },
+    "live": {
+      "title": "Live Broadcasts",
+      "desc": "We also have the equipment needed to record a 4-camera event, live-switch it, and broadcast it live. It’s a different format, but one we love—and in fact it’s what most of us studied."
+    }
+  },
+  "contact": {
+    "title": "Start your project",
+    "subtitle": "You can contact us through our social media, our email, phone number, or by using the contact form below.",
+    "info": "Contact Information",
+    "name": "Your Name",
+    "email": "Your Email",
+    "project": "Project Type",
+    "message": "Your Message",
+    "send": "Send",
+    "sending": "Sending...",
+    "success": "Message sent!",
+    "error": "Error sending message"
+  },
+  "footer": {
+    "contact": "Contact",
+    "copyright": "2025 Rodeo Studio. All rights reserved."
+  },
+  "all-projects": {
+    "title": "All Projects",
+    "subtitle": "Explore all of our projects"
+  },
+  "project": {
+    "notFound": "Project not found",
+    "returnHome": "Return Home",
+    "projectDetails": "Project Details",
+    "aboutProject": "About the Project",
+    "gallery": "Gallery",
+    "backToProjects": "← Back to Projects",
+    "client": "Client",
+    "year": "Year",
+    "duration": "Duration",
+    "category": "Category",
+    "director": "Director",
+    "cinematographer": "Director of Photography",
+    "projects": {
+      "1": {
+        "title": "No Name",
+        "description": "",
+        "client": "Blanch",
+        "year": "2025",
+        "duration": "2:47",
+        "category": "Music Video",
+        "director": "Laia Cachinero",
+        "cinematographer": "Andrés Villalobos",
+        "fullDescription": "No additional information."
+      },
+      "2": {
+        "title": "Inquietos",
+        "description": "",
+        "client": "Maldez",
+        "year": "2025",
+        "duration": "2:51",
+        "category": "Music Video",
+        "director": "Raquel Vives",
+        "cinematographer": "Andrés Villalobos",
+        "fullDescription": "No additional information."
+      },
+      "3": {
+        "title": "Youtube",
+        "description": "",
+        "client": "Markuu",
+        "year": "2025",
+        "duration": "1:56",
+        "category": "Music Video",
+        "director": "Raquel Vives",
+        "cinematographer": "Andrés Villalobos",
+        "fullDescription": "No additional information."
+      },
+      "4": {
+        "title": "Commercial Spot",
+        "description": "High-impact commercial with a compelling narrative and a strong brand message.",
+        "client": "Global technology company",
+        "year": "2024",
+        "duration": "1:00",
+        "category": "Commercial",
+        "director": "David Kim",
+        "cinematographer": "Elena Vasquez",
+        "fullDescription": "A high-impact commercial that tells a compelling story while delivering a strong brand message. The project balances emotional resonance with clear communication of the product’s benefits, creating a memorable viewing experience.\n\nThe creative strategy focused on showcasing real-world applications of the technology while keeping the human connection at the center of the narrative. The visual approach combines sleek product cinematography with warm human moments."
+      },
+      "5": {
+        "title": "Brand Story",
+        "description": "Corporate documentary exploring the values and history of a century-old family business.",
+        "client": "Artisans of Barcelona",
+        "year": "2024",
+        "duration": "8:30",
+        "category": "Corporate Documentary",
+        "director": "Sofia Patel",
+        "cinematographer": "Marc Jiménez",
+        "fullDescription": "A deeply moving brand story that follows three generations of Barcelona artisans, exploring how tradition and innovation come together to keep a centuries-old craft alive. The project captures family passion and values that have endured over the years.\n\nShot in the traditional workshops of the Gothic Quarter, the documentary uses warm, intimate cinematography to reveal the craft processes that define the brand. Interviews with three generations of the family show how core values have been passed down while adapting to modern times."
+      }
+    }
+  }
+}

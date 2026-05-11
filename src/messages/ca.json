@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "description": "La teva productora audiovisual de confiança"
+  },
+  "home": {
+    "title": "Benvingut a Rodeo Studio",
+    "subtitle": "La teva productora audiovisual de confiança de Barcelona.",
+    "cta": "Comença el teu Projecte"
+  },
+  "nav": {
+    "home": "Inici",
+    "projects": "Projectes",
+    "about": "Sobre nosaltres",
+    "team": "Equip",
+    "services": "Serveis",
+    "contact": "Contacte"
+  },
+  "projects": {
+    "title": "Projectes Destacats",
+    "subtitle": "Explora els nostres últims projectes"
+  },
+  "about": {
+    "title": "Sobre Rodeo Studio",
+    "text1": "Fundada el 2025, Rodeo Studio és una productora audiovisual de Barcelona formada per joves professionals amb molta passió pel cinema i la música.",
+    "text2": "La nostra especialització són videoclips, però també fem curtmetratges, documentals, vídeos promocionals i retransmissions en directe.",
+    "alt": "Equip de Rodeo Studio",
+    "meetTeam": "Coneix el nostre equip"
+  },
+  "team": {
+    "title": "Qui som?",
+    "subtitle": "Som l'Andrés, la Raquel, l'Ot, la Mery, en Martí i la Laia. Junts formem un equip divers i complet per qualsevol producció audiovisual.",
+    "andres": {
+      "role": "Director de Fotografia",
+      "description": "Expert en cinematografia i il·luminació, l'Andrés dona vida a cada projecte amb la seva visió artística i tècnica. També és un friki de la colorimetria i etalona quasi tots els nostres projectes."
+    },
+    "raquel": {
+      "role": "Directora Creativa",
+      "description": "La Raquel és el motor que impulsa Rodeo, la que busca els projectes, la que els pensa i la que els hi dona vida. Té moltes idees moltes, i sempre troba els recursos per executar-les. També és la principal editora de l'equip."
+    },
+    "marti": {
+      "role": "I+D",
+      "description": "En Martí és un geek de la informàtica i s'encarrega de la part tècnica fora de les produccions audiovisuals. També és un amant del cinema i pot fer de càmera o ajudant d'il·luminació."
+    },
+    "laia": {
+      "role": "Dissenyadora i Càmera",
+      "description": "La Laia va estudiar disseny (a part de realització), és la creativa del grup. Si cal un pòster obre el Photoshop, si calen unes animacions obre l'After Effects... ho domina tot. També és una fan de la fotografia i sempre capta els moments més bonics que et puguis trobar en un rodatge."
+    },
+    "ot": {
+      "role": "Coordinador",
+      "description": "L'Ot domina tots els camps. Coneix les especificacions de cada càmera i cada lent, pot escriure't un guió, o pot pensar quina és la millor manera de transmetre una idea. Degut a la seva polivalència és el coordinador de la majoria de projectes, assegurant-se que totes les parts treballin com una de sola."
+    },
+    "mery": {
+      "role": "Directora de Producció",
+      "description": "La Mery gestiona tota la logística i organització de les produccions audiovisuals que fem, coordina  l'equip i s'assegura que tot funcioni sense problemes."
+    }
+  },
+  "services": {
+    "title": "Els nostres Serveis",
+    "commercial": {
+      "title": "Vídeos Promocionals",
+      "desc": "Comercials originals, d'aquells que recordes durant temps. Expliquem la història de la teva marca amb creativitat i professionalitat."
+    },
+    "music": {
+      "title": "Videoclips Musicals",
+      "desc": "Els videoclips artístics són la nostra especialitat. Ens adaptem a la teva visió i perfil i pensem i construim la narrativa i la fotografia del videoclip específicament pensant en tu."
+    },
+    "documentary": {
+      "title": "Films Documentals",
+      "desc": "Ocasionalment fem documentals en mitjà o petit format per encàrrec. Tenim una gran experiència en realitzar entrevistes i gravar plans recurs in situ. És un format amb els que ens sentim molt còmodes."
+    },
+    "social": {
+      "title": "Contingut per Xarxes Socials",
+      "desc": "També podem gravar en vertical, qui ho diria! Sabem editar, sabem l'estil sabem com gravar-te a tu i els teus per generar contingut atractiu i optimitzat pels algorismes de Instagram, TikTok o YouTube."
+    },
+    "live": {
+      "title": "Retransmissions en Directe",
+      "desc": "Disposem també de l'equipament necessari per gravar un esdeveniment a 4 càmeres i realitzar-lo i retransmetre'l en directe. És un format diferent però que també ens encanta, i que de fet és el que hem estudiat la majoria."
+    }
+  },
+  "contact": {
+    "title": "Comença el teu Projecte",
+    "subtitle": "Pots contactar amb nosaltres a través de les nostres xarxes socials, el nostre correu electrònic, número de telèfon o utilitzant el següent formulari de contacte.",
+    "info": "Informació de Contacte",
+    "social": "Xarxes Socials",
+    "name": "El teu Nom",
+    "email": "El teu Email",
+    "project": "Tipus de Projecte",
+    "message": "El teu Missatge",
+    "send": "Envia",
+    "sending": "Enviant...",
+    "success": "Missatge enviat!",
+    "error": "Error enviant missatge"
+  },
+  "footer": {
+    "contact": "Contacte",
+    "copyright": "2025 Rodeo Studio. Tots els drets reservats."
+  },
+  "all-projects": {
+    "title": "Tots els Projectes",
+    "subtitle": "Explora tots els nostres projectes"
+  },
+  "project": {
+    "notFound": "Projecte no trobat",
+    "returnHome": "Torna a l'Inici",
+    "projectDetails": "Detalls del Projecte",
+    "aboutProject": "Sobre el Projecte",
+    "gallery": "Galeria",
+    "backToProjects": "← Torna a Projectes",
+    "client": "Client",
+    "year": "Any",
+    "duration": "Durada",
+    "category": "Categoria",
+    "director": "Director",
+    "cinematographer": "Director de Fotografia",
+    "projects": {
+      "1": {
+        "title": "No Name",
+        "description": "",
+        "client": "Blanch",
+        "year": "2025",
+        "duration": "2:47",
+        "category": "Videoclip",
+        "director": "Laia Cachinero",
+        "cinematographer": "Andrés Villalobos",
+        "fullDescription": "No hi ha informació addicional."
+      },
+      "2": {
+        "title": "Inquietos",
+        "description": "",
+        "client": "Maldez",
+        "year": "2025",
+        "duration": "2:51",
+        "category": "Videoclip",
+        "director": "Raquel Vives",
+        "cinematographer": "Andrés Villalobos",
+        "fullDescription": "No hi ha informació addicional."
+      },
+      "3": {
+        "title": "Youtube",
+        "description": "",
+        "client": "Markuu",
+        "year": "2025",
+        "duration": "1:56",
+        "category": "Videoclip",
+        "director": "Raquel Vives",
+        "cinematographer": "Andrés Villalobos",
+        "fullDescription": "No hi ha informació addicional."
+      },
+      "4": {
+        "title": "Espot Comercial",
+        "description": "Comercial d'alt impacte amb narrativa convincent i missatge de marca fort.",
+        "client": "Empresa Tecnològica Global",
+        "year": "2024",
+        "duration": "1:00",
+        "category": "Comercial",
+        "director": "David Kim",
+        "cinematographer": "Elena Vasquez",
+        "fullDescription": "Un comercial d'alt impacte que conta una història convincent mentre entrega un missatge de marca fort. El projecte equilibra la ressonància emocional amb la comunicació clara dels beneficis del producte, creant una experiència de visualització memorable.\n\nL'estratègia creativa es va centrar en demostrar les aplicacions del món real de la tecnologia mentre manté la connexió humana al centre de la narrativa. L'enfocament visual combina cinematografia elegant del producte amb moments humans càlids."
+      },
+      "5": {
+        "title": "Història de Marca",
+        "description": "Documental corporatiu que explora els valors i la història d'una empresa familiar centenària.",
+        "client": "Artesans de Barcelona",
+        "year": "2024",
+        "duration": "8:30",
+        "category": "Documental Corporatiu",
+        "director": "Sofia Patel",
+        "cinematographer": "Marc Jiménez",
+        "fullDescription": "Una història de marca profundament emotiva que segueix tres generacions d'artesans barcelonins, explorant com la tradició i la innovació es combinen per mantenir viu un ofici centenari. El projecte captura la passió familiar i els valors que han perdurat a través dels anys.\n\nRodat en els tallers tradicionals del Barri Gòtic, el documental utilitza una cinematografia càlida i íntima per revelar els processos artesanals que defineixen la marca. Les entrevistes amb tres generacions de la família mostren com els valors fonamentals s'han transmès mentre s'adapten als temps moderns."
+      }
+    }
+  }
+}
